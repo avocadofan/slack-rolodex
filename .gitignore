@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Docker stuff
+*.exe
+*.exe~
+*.orig
+*.test
+.*.swp
+
